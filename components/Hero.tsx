@@ -66,7 +66,7 @@ const Hero: React.FC<HeroProps> = ({ onBookDemo }) => {
             {/* Main Image Container */}
             <div className="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-white z-10">
               <img 
-                src="https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&q=80&w=800&h=900" 
+                src="image/Dr Anshuman Sir.png" 
                 alt="Dr. Anshuman Agarwal Teaching" 
                 className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-700"
               />
